@@ -1,4 +1,4 @@
-#include "Index.hpp"
+#include "index.hpp"
 #include <fstream>
 #include <sstream>
 #include <stdexcept>
