@@ -3,7 +3,7 @@
 #include <cctype>
 #include <algorithm>
 
-namespace geo {
+
 
 struct CityKey {
     std::string city;
@@ -50,4 +50,4 @@ struct CityKeyHash {
     }
 };
 
-}
+
